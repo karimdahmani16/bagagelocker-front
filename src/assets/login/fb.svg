@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 43 43">
+  <g id="logo_facebook" data-name="logo facebook" transform="translate(0.389 -0.109)">
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="21.5" cy="21.5" r="21.5" transform="translate(-0.389 0.109)" fill="#0079f9"/>
+    <g id="Groupe_70052" data-name="Groupe 70052" transform="translate(14.629 6.659)">
+      <path id="Tracé_16" data-name="Tracé 16" d="M11.363,21.856V36.14a.375.375,0,0,0,.375.375h5.314a.375.375,0,0,0,.375-.375V21.619H21.28a.368.368,0,0,0,.375-.336l.375-4.386a.368.368,0,0,0-.375-.4H17.428V13.4a1.324,1.324,0,0,1,1.324-1.324h2.963a.375.375,0,0,0,.375-.375V7.335a.375.375,0,0,0-.375-.375H16.7a5.32,5.32,0,0,0-5.314,5.334v4.228H8.715a.375.375,0,0,0-.375.375v4.386a.375.375,0,0,0,.375.375h2.647Z" transform="translate(-8.34 -6.96)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
